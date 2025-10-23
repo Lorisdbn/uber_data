@@ -123,7 +123,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown(
     """
     **Author**  
-    <a href="https://www.linkedin.com/in/lorisdurbano/" target="_blank" style="color:white; text-decoration:none;">
+    <a href="https://www.linkedin.com/in/lorisdurbano/" target="_blank">
         Loris Durbano
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16">
     </a>
