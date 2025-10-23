@@ -1,0 +1,19 @@
+# Core
+streamlit>=1.37
+pandas
+numpy
+scikit-learn==1.4.2
+joblib
+
+# Viz & UI
+plotly
+altair
+pydeck
+seaborn
+matplotlib
+
+# Geo (si tu l’utilises)
+geopy
+
+# Stats (si utilisé dans ton code)
+scipy

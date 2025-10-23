@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+base="light"
+primaryColor="#0E100A"
+backgroundColor="#EAEDE1"          # fond principal
+secondaryBackgroundColor="#659A7B" # sidebar + cartes
+textColor="#0E100A"
