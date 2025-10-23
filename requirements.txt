@@ -2,7 +2,7 @@
 streamlit>=1.37
 pandas
 numpy
-scikit-learn==1.4.2
+scikit-learn==1.5.2
 joblib
 
 # Viz & UI
@@ -12,8 +12,8 @@ pydeck
 seaborn
 matplotlib
 
-# Geo (si tu l’utilises)
+# Geo
 geopy
 
-# Stats (si utilisé dans ton code)
+# Stats
 scipy
