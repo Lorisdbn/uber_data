@@ -132,6 +132,8 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
+st.markdown("")
+
 #  Contact section
 def _stars(n: int) -> str:
     n = int(n); n = max(1, min(5, n))
