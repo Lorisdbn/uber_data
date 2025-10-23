@@ -123,7 +123,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown(
     """
     **Author**  
-    [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png){width=16} Loris Durbano](https://www.linkedin.com/in/lorisdurbano/)
+    [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png){width=4} Loris Durbano](https://www.linkedin.com/in/lorisdurbano/)
     """,
     unsafe_allow_html=True
 )
