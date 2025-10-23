@@ -132,7 +132,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("")
+st.sidebar.markdown("<br>", unsafe_allow_html=True)
 
 #  Contact section
 def _stars(n: int) -> str:
