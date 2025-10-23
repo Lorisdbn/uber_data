@@ -121,11 +121,7 @@ if st.sidebar.button("🤖 Predictions"):
 
 st.sidebar.markdown("---") 
 st.sidebar.markdown(
-    """
-    **Author**  
-    [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png){width=4} Loris Durbano](https://www.linkedin.com/in/lorisdurbano/)
-    """,
-    unsafe_allow_html=True
+    "**Author**\n\n[🔗 Loris Durbano](https://www.linkedin.com/in/lorisdurbano/)"
 )
 
 #  Contact section
